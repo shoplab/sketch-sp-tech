@@ -1,4 +1,4 @@
-# The Shuffle Editor (https://shuffle.dev)
+# SP TECH - Sketch
 
 NOTE: npm commands overwrite the ./public directory.
 
